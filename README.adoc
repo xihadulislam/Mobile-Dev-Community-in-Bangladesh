@@ -15,10 +15,9 @@ List of developers to help tech companies to find the best resources.
 
 === Sylhet
 |===
-|Developer Name |Job Rule |Contact Info |Expertise |Web presence 
+|Developer Name |Contact Info |Expertise |Web presence 
 
 |MD ZIADUL ISLAM
-|Software Engineer at Yotech
 |Email: xihad.bd@gmail.com 
 |Android, Flutter 
 |https://xihadulislam.github.io/[Website]
