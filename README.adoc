@@ -12,8 +12,10 @@ List of developers to help tech companies to find the best resources.
 {nbsp} +
 {nbsp} +
 
+### Index
+* [Sylhet](#Sylhet)
 
-== Developers from : Sylhet
+## Developers from : Sylhet
 |===
 |Developer Name |Bio |Expertise |Contact Info |Web presence 
 
