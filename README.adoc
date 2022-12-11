@@ -3,6 +3,10 @@
 List of developers to help tech companies to find the best resources.
 
 
+=== Contribute
+Contributions are always welcome! Create a pull request.
+
+
 === How to add a new Developer?
 
 * Fork the repository.
@@ -13,7 +17,7 @@ List of developers to help tech companies to find the best resources.
 {nbsp} +
 
 
-=== Sylhet
+== Sylhet
 |===
 |Developer Name |Contact Info |Expertise |Web presence 
 
@@ -29,10 +33,6 @@ List of developers to help tech companies to find the best resources.
 
 {nbsp} +
 {nbsp} +
-
-
-=== Contribute
-Contributions are always welcome! Create a pull request.
 
 
 === Copyright & License
