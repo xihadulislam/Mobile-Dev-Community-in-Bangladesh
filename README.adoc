@@ -12,8 +12,6 @@ List of developers to help tech companies to find the best resources.
 {nbsp} +
 {nbsp} +
 
-### Index
-* Syl[Sylhet]
 
 ## Developers from : Sylhet
 |===
