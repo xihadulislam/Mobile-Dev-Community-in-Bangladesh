@@ -3,10 +3,6 @@
 List of developers to help tech companies to find the best resources.
 
 
-=== Contribute
-Contributions are always welcome! Create a pull request.
-
-
 === How to add a new Developer?
 
 * Fork the repository.
@@ -19,11 +15,12 @@ Contributions are always welcome! Create a pull request.
 
 == Sylhet
 |===
-|Developer Name |Contact Info |Expertise |Web presence 
+|Developer Name |Bio |Expertise |Contact Info |Web presence 
 
 |MD ZIADUL ISLAM
+|Software Engineer at YO TECH
+|Android, Flutter
 |Email: xihad.bd@gmail.com 
-|Android, Flutter 
 |https://xihadulislam.github.io/[Website]
 
 
@@ -33,6 +30,9 @@ Contributions are always welcome! Create a pull request.
 
 {nbsp} +
 {nbsp} +
+
+=== Contribute
+Contributions are always welcome! Create a pull request.
 
 
 === Copyright & License
