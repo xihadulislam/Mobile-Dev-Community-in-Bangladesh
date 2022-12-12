@@ -1,4 +1,4 @@
-= Developer Community in Bangladesh
+= Developer Community in Bangladesh-বাংলাদেশে ডেভেলপার কমিউনিটি
 ;
 :revnumber: {version}
 :revdate: {localdate}
@@ -18,7 +18,7 @@ toc::[]
 == How to add a new Developer?
 
 * Fork the repository.
-* Add the Developer in district order.
+* Add the Developer in division order.
 * Create pull request.
 
 {nbsp} +
@@ -176,9 +176,6 @@ toc::[]
 
 {nbsp} +
 {nbsp} +
-
-
-
 
 
 
