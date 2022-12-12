@@ -43,7 +43,11 @@ toc::[]
 |Email: xihad.bd@gmail.com
 |https://xihadulislam.github.io/[Website]
 
-
+|PRABAL BHATTACHARJEE
+|Software Engineer at YO TECH
+|Android, Flutter
+|Email: prabal23.dev@gmail.com
+|https://prabal23.github.io/[Website]
 
 |===
 
