@@ -49,11 +49,11 @@ toc::[]
 |===
 |Developer Name |Bio |Expertise |Contact Info |Web presence
 
-|MD ZIADUL ISLAM
-|Software Engineer at YO TECH
-|Android, Flutter
-|Email: xihad.bd@gmail.com
-|https://xihadulislam.github.io/[Website]
+|
+|
+|
+|
+|
 
 
 
