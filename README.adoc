@@ -24,9 +24,9 @@ toc::[]
 {nbsp} +
 {nbsp} +
 
-== Developers List
+== Developers based on division of bangladesh
 
-=== Sylhet
+=== Sylhet-সিলেট
 
 |===
 |Developer Name |Bio |Expertise |Contact Info |Web presence
@@ -44,16 +44,16 @@ toc::[]
 {nbsp} +
 {nbsp} +
 
-=== Dhaka
+=== Dhaka-ঢাকা
 
 |===
 |Developer Name |Bio |Expertise |Contact Info |Web presence
 
-|
-|
-|
-|
-|
+|MD ZIADUL ISLAM
+|Software Engineer at YO TECH
+|Android, Flutter
+|Email: xihad.bd@gmail.com
+|https://xihadulislam.github.io/[Website]
 
 
 
@@ -61,6 +61,127 @@ toc::[]
 
 {nbsp} +
 {nbsp} +
+
+
+=== Chittagong-চট্টগ্রাম
+
+|===
+|Developer Name |Bio |Expertise |Contact Info |Web presence
+
+|MD ZIADUL ISLAM
+|Software Engineer at YO TECH
+|Android, Flutter
+|Email: xihad.bd@gmail.com
+|https://xihadulislam.github.io/[Website]
+
+
+
+|===
+
+{nbsp} +
+{nbsp} +
+
+
+=== Rajshahi-রাজশাহী
+
+|===
+|Developer Name |Bio |Expertise |Contact Info |Web presence
+
+|MD ZIADUL ISLAM
+|Software Engineer at YO TECH
+|Android, Flutter
+|Email: xihad.bd@gmail.com
+|https://xihadulislam.github.io/[Website]
+
+
+
+|===
+
+{nbsp} +
+{nbsp} +
+
+
+=== Barisal-বরিশাল
+
+|===
+|Developer Name |Bio |Expertise |Contact Info |Web presence
+
+|MD ZIADUL ISLAM
+|Software Engineer at YO TECH
+|Android, Flutter
+|Email: xihad.bd@gmail.com
+|https://xihadulislam.github.io/[Website]
+
+
+
+|===
+
+{nbsp} +
+{nbsp} +
+
+
+=== Mymensingh-ময়মনসিংহ
+
+|===
+|Developer Name |Bio |Expertise |Contact Info |Web presence
+
+|MD ZIADUL ISLAM
+|Software Engineer at YO TECH
+|Android, Flutter
+|Email: xihad.bd@gmail.com
+|https://xihadulislam.github.io/[Website]
+
+
+
+|===
+
+{nbsp} +
+{nbsp} +
+
+
+
+=== Rangpur-রংপুর
+
+|===
+|Developer Name |Bio |Expertise |Contact Info |Web presence
+
+|MD ZIADUL ISLAM
+|Software Engineer at YO TECH
+|Android, Flutter
+|Email: xihad.bd@gmail.com
+|https://xihadulislam.github.io/[Website]
+
+
+
+|===
+
+{nbsp} +
+{nbsp} +
+
+
+=== Khulna-খুলনা
+
+|===
+|Developer Name |Bio |Expertise |Contact Info |Web presence
+
+|MD ZIADUL ISLAM
+|Software Engineer at YO TECH
+|Android, Flutter
+|Email: xihad.bd@gmail.com
+|https://xihadulislam.github.io/[Website]
+
+
+
+|===
+
+{nbsp} +
+{nbsp} +
+
+
+
+
+
+
 
 == Contributions & Licensed
 
