@@ -55,11 +55,14 @@ toc::[]
 |===
 |Name |Bio |Expertise |Contact Info |Website
 
-|MD ZIADUL ISLAM
-|Software Engineer at YO TECH
-|Android, Flutter
-|Email: xihad.bd@gmail.com
-|https://xihadulislam.github.io/[Website]
+|Mr. Developer
+|Software Engineer at GOOGLE
+|Etc, Etc
+|Email: example@gmail.com
+
+Phone : +88017xxxxxxx
+
+|https://example.com/[Website]
 
 
 
