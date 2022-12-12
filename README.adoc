@@ -9,7 +9,7 @@
 
 (C) 2022 The original author @XihadIslam.
 
- List of developers to help tech companies to find the best resources.
+List of developers to help tech companies to find the best resources.
 
 
 NOTE:  Please follow the below instruction
@@ -28,7 +28,12 @@ toc::[]
 {nbsp} +
 
 
-// include::sylhet.adoc[]
+[source]
+----
+include::sylhet.adoc[]
+----
+
+
 
 == Developers based on division of bangladesh
 
