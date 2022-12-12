@@ -28,7 +28,7 @@ toc::[]
 {nbsp} +
 
 
-[format="csv",cols="^1,4*2",options="header"]
+[format="csv",cols="^144,4*2",options="header"]
 |===================================================
 Name,Bio,Expertise,Contact Info,Website
 include::sylhet.csv[]
