@@ -24,7 +24,7 @@ toc::[]
 {nbsp} +
 {nbsp} +
 
-== Developers from List
+== Developers List
 
 === Sylhet
 
@@ -41,6 +41,8 @@ toc::[]
 
 |===
 
+{nbsp} +
+{nbsp} +
 
 === Dhaka
 
