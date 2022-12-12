@@ -5,12 +5,12 @@
 :toc:
 :toc-placement!:
 
-== বাংলাদেশে ডেভেলপার কমিউনিটি
+// == বাংলাদেশে ডেভেলপার কমিউনিটি
 
+(C) 2022 The original author @XihadIslam.
 
-List of developers to help tech companies to find the best resources.
+ List of developers to help tech companies to find the best resources.
 
-(C) 2022 The original authors #Xihad Islam.
 
 NOTE:  Please follow the below instruction
 
@@ -32,7 +32,7 @@ toc::[]
 === Sylhet-সিলেট
 
 |===
-|Developer Name |Bio |Expertise |Contact Info |Web presence
+|Developer Name |Bio |Expertise |Contact Info |Website
 
 |MD ZIADUL ISLAM
 |Software Engineer at YO TECH
@@ -50,7 +50,7 @@ toc::[]
 === Dhaka-ঢাকা
 
 |===
-|Developer Name |Bio |Expertise |Contact Info |Web presence
+|Developer Name |Bio |Expertise |Contact Info |Website
 
 |MD ZIADUL ISLAM
 |Software Engineer at YO TECH
@@ -69,7 +69,7 @@ toc::[]
 === Chittagong-চট্টগ্রাম
 
 |===
-|Developer Name |Bio |Expertise |Contact Info |Web presence
+|Developer Name |Bio |Expertise |Contact Info |Website
 
 |MD ZIADUL ISLAM
 |Software Engineer at YO TECH
@@ -88,7 +88,7 @@ toc::[]
 === Rajshahi-রাজশাহী
 
 |===
-|Developer Name |Bio |Expertise |Contact Info |Web presence
+|Developer Name |Bio |Expertise |Contact Info |Website
 
 |MD ZIADUL ISLAM
 |Software Engineer at YO TECH
@@ -107,7 +107,7 @@ toc::[]
 === Barisal-বরিশাল
 
 |===
-|Developer Name |Bio |Expertise |Contact Info |Web presence
+|Developer Name |Bio |Expertise |Contact Info |Website
 
 |MD ZIADUL ISLAM
 |Software Engineer at YO TECH
@@ -126,7 +126,7 @@ toc::[]
 === Mymensingh-ময়মনসিংহ
 
 |===
-|Developer Name |Bio |Expertise |Contact Info |Web presence
+|Developer Name |Bio |Expertise |Contact Info |Website
 
 |MD ZIADUL ISLAM
 |Software Engineer at YO TECH
@@ -146,7 +146,7 @@ toc::[]
 === Rangpur-রংপুর
 
 |===
-|Developer Name |Bio |Expertise |Contact Info |Web presence
+|Developer Name |Bio |Expertise |Contact Info |Website
 
 |MD ZIADUL ISLAM
 |Software Engineer at YO TECH
@@ -165,7 +165,7 @@ toc::[]
 === Khulna-খুলনা
 
 |===
-|Developer Name |Bio |Expertise |Contact Info |Web presence
+|Developer Name |Bio |Expertise |Contact Info |Website
 
 |MD ZIADUL ISLAM
 |Software Engineer at YO TECH
