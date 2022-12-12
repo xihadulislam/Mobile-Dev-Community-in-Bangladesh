@@ -33,7 +33,7 @@ toc::[]
 === Sylhet-সিলেট
 
 |===
-|Developer Name |Bio |Expertise |Contact Info |Website
+|Name |Bio |Expertise |Contact Info |Website
 
 |MD ZIADUL ISLAM
 |Software Engineer at YO TECH
@@ -51,7 +51,7 @@ toc::[]
 === Dhaka-ঢাকা
 
 |===
-|Developer Name |Bio |Expertise |Contact Info |Website
+|Name |Bio |Expertise |Contact Info |Website
 
 |MD ZIADUL ISLAM
 |Software Engineer at YO TECH
@@ -70,7 +70,7 @@ toc::[]
 === Chittagong-চট্টগ্রাম
 
 |===
-|Developer Name |Bio |Expertise |Contact Info |Website
+|Name |Bio |Expertise |Contact Info |Website
 
 |MD ZIADUL ISLAM
 |Software Engineer at YO TECH
@@ -89,7 +89,7 @@ toc::[]
 === Rajshahi-রাজশাহী
 
 |===
-|Developer Name |Bio |Expertise |Contact Info |Website
+|Name |Bio |Expertise |Contact Info |Website
 
 |MD ZIADUL ISLAM
 |Software Engineer at YO TECH
@@ -108,7 +108,7 @@ toc::[]
 === Barisal-বরিশাল
 
 |===
-|Developer Name |Bio |Expertise |Contact Info |Website
+|Name |Bio |Expertise |Contact Info |Website
 
 |MD ZIADUL ISLAM
 |Software Engineer at YO TECH
@@ -127,7 +127,7 @@ toc::[]
 === Mymensingh-ময়মনসিংহ
 
 |===
-|Developer Name |Bio |Expertise |Contact Info |Website
+|Name |Bio |Expertise |Contact Info |Website
 
 |MD ZIADUL ISLAM
 |Software Engineer at YO TECH
@@ -147,7 +147,7 @@ toc::[]
 === Rangpur-রংপুর
 
 |===
-|Developer Name |Bio |Expertise |Contact Info |Website
+|Name |Bio |Expertise |Contact Info |Website
 
 |MD ZIADUL ISLAM
 |Software Engineer at YO TECH
@@ -166,7 +166,7 @@ toc::[]
 === Khulna-খুলনা
 
 |===
-|Developer Name |Bio |Expertise |Contact Info |Website
+|Name |Bio |Expertise |Contact Info |Website
 
 |MD ZIADUL ISLAM
 |Software Engineer at YO TECH
