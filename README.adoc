@@ -214,4 +214,4 @@ Phone : +88017xxxxxxx
 
 === -> Copyright & License
 
- Licensed under the MIT License, see the link:LICENSE[LICENSE] file for details.
+Licensed under the MIT License, see the link:LICENSE[LICENSE] file for details.
