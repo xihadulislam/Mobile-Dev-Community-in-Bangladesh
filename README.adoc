@@ -1,4 +1,4 @@
-= Developer Community in Bangladesh -বাংলাদেশে ডেভেলপার কমিউনিটি;
+= Developer Community in Bangladesh
 
 :revnumber: {version}
 :revdate: {localdate}
@@ -11,6 +11,8 @@ List of developers to help tech companies to find the best resources.
 
 
 NOTE:  Please follow the below instruction
+
+
 
 
 toc::[]
