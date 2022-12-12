@@ -1,11 +1,9 @@
-= Developer Community in Bangladesh
-;
+= Developer Community in Bangladesh -বাংলাদেশে ডেভেলপার কমিউনিটি;
+
 :revnumber: {version}
 :revdate: {localdate}
 :toc:
 :toc-placement!:
-
-// == বাংলাদেশে ডেভেলপার কমিউনিটি
 
 (C) 2022 The original author @XihadIslam.
 
@@ -27,11 +25,6 @@ toc::[]
 {nbsp} +
 {nbsp} +
 
-
-[source]
-----
-include::sylhet.adoc[]
-----
 
 
 
@@ -82,11 +75,14 @@ Phone : +88017xxxxxxx
 |===
 |Name |Bio |Expertise |Contact Info |Website
 
-|MD ZIADUL ISLAM
-|Software Engineer at YO TECH
-|Android, Flutter
-|Email: xihad.bd@gmail.com
-|https://xihadulislam.github.io/[Website]
+|Mr. Developer
+|Software Engineer at GOOGLE
+|Etc, Etc
+|Email: example@gmail.com
+
+Phone : +88017xxxxxxx
+
+|https://example.com/[Website]
 
 
 
@@ -101,12 +97,14 @@ Phone : +88017xxxxxxx
 |===
 |Name |Bio |Expertise |Contact Info |Website
 
-|MD ZIADUL ISLAM
-|Software Engineer at YO TECH
-|Android, Flutter
-|Email: xihad.bd@gmail.com
-|https://xihadulislam.github.io/[Website]
+|Mr. Developer
+|Software Engineer at GOOGLE
+|Etc, Etc
+|Email: example@gmail.com
 
+Phone : +88017xxxxxxx
+
+|https://example.com/[Website]
 
 
 |===
@@ -120,12 +118,14 @@ Phone : +88017xxxxxxx
 |===
 |Name |Bio |Expertise |Contact Info |Website
 
-|MD ZIADUL ISLAM
-|Software Engineer at YO TECH
-|Android, Flutter
-|Email: xihad.bd@gmail.com
-|https://xihadulislam.github.io/[Website]
+|Mr. Developer
+|Software Engineer at GOOGLE
+|Etc, Etc
+|Email: example@gmail.com
 
+Phone : +88017xxxxxxx
+
+|https://example.com/[Website]
 
 
 |===
@@ -139,12 +139,14 @@ Phone : +88017xxxxxxx
 |===
 |Name |Bio |Expertise |Contact Info |Website
 
-|MD ZIADUL ISLAM
-|Software Engineer at YO TECH
-|Android, Flutter
-|Email: xihad.bd@gmail.com
-|https://xihadulislam.github.io/[Website]
+|Mr. Developer
+|Software Engineer at GOOGLE
+|Etc, Etc
+|Email: example@gmail.com
 
+Phone : +88017xxxxxxx
+
+|https://example.com/[Website]
 
 
 |===
@@ -159,12 +161,14 @@ Phone : +88017xxxxxxx
 |===
 |Name |Bio |Expertise |Contact Info |Website
 
-|MD ZIADUL ISLAM
-|Software Engineer at YO TECH
-|Android, Flutter
-|Email: xihad.bd@gmail.com
-|https://xihadulislam.github.io/[Website]
+|Mr. Developer
+|Software Engineer at GOOGLE
+|Etc, Etc
+|Email: example@gmail.com
 
+Phone : +88017xxxxxxx
+
+|https://example.com/[Website]
 
 
 |===
@@ -178,12 +182,14 @@ Phone : +88017xxxxxxx
 |===
 |Name |Bio |Expertise |Contact Info |Website
 
-|MD ZIADUL ISLAM
-|Software Engineer at YO TECH
-|Android, Flutter
-|Email: xihad.bd@gmail.com
-|https://xihadulislam.github.io/[Website]
+|Mr. Developer
+|Software Engineer at GOOGLE
+|Etc, Etc
+|Email: example@gmail.com
 
+Phone : +88017xxxxxxx
+
+|https://example.com/[Website]
 
 
 |===
