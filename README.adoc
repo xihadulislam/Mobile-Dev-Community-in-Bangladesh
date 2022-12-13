@@ -42,7 +42,7 @@ toc::[]
 |Android, Flutter
 |xihad.bd@gmail.com
 
-https://www.linkedin.com/in/xihadislam/[linkedin]
+https://www.linkedin.com/in/xihadislam/[linkedin], https://twitter.com/xihadulislam/[twitter], https://www.facebook.com/xihadislam00/[facebook], https://www.youtube.com/channel/UCz5x81XnMGnW5KB5lYQsN9Q/[youtube]
 
 |https://xihadulislam.github.io/[Website]
 
