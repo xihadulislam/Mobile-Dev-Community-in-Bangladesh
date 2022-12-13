@@ -39,7 +39,7 @@ toc::[]
 
 |MD ZIADUL ISLAM
 |Software Engineer at YO TECH
-|Android, Flutter
+|Android, Flutter, Java, Kotlin, REST API, MVVM, Coroutine, Push Notification, Database [ Firebase , Room, SQLite , Shared Preference ], Git Version Control
 |xihad.bd@gmail.com
 
 +8801742242243
