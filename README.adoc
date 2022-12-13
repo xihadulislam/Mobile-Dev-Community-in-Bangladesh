@@ -241,8 +241,9 @@ Phone : +88017xxxxxxx
 ## Found this project useful :heart:
 * Support by clicking the :star: button on the upper right of this page. :v:
 
+{nbsp} +
 
-NOTE: Updating it on daily basis as much as possible, work in progess[WIP].
+TODO: Updating it on daily basis as much as possible, work in progess[WIP].
 
 
 {nbsp} +
