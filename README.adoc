@@ -12,6 +12,8 @@ List of developers to help tech companies to find the best resources.
 
 NOTE:  Please follow the below instruction
 
+### Found this project useful :heart:
+* Support by clicking the :star: button on the upper right of this page. :v:
 
 toc::[]
 
