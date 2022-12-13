@@ -40,7 +40,7 @@ toc::[]
 |MD ZIADUL ISLAM
 |Software Engineer at YO TECH
 |Android, Flutter
-|xihad.bd@gmail.com [Email] 
+|xihad.bd@gmail.com[Email] 
 |https://xihadulislam.github.io/[Website]
 
 
