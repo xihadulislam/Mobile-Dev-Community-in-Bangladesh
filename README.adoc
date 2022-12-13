@@ -41,14 +41,14 @@ toc::[]
 |Software Engineer at YO TECH
 |Android, Flutter
 |Email: xihad.bd@gmail.com
-
-Phone: +8801720848705
 |https://xihadulislam.github.io/[Website]
 
 |PRABAL BHATTACHARJEE
 |Software Engineer at YO TECH
 |Android, Flutter
 |Email: prabal23.dev@gmail.com
+
+Phone: +8801720848705
 |https://prabal23.github.io/[GITHUB]
 
 |Sudipto Sarker
