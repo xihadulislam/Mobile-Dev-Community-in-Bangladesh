@@ -50,11 +50,13 @@ https://www.linkedin.com/in/xihadislam/[Linkedin], https://twitter.com/xihadulis
 // start from here
 |PRABAL BHATTACHARJEE
 |Software Engineer at YO TECH
-|Android, Flutter
-|Email: prabal23.dev@gmail.com
+
+2020 - Present
+|Android, Flutter, JAVA, Kotlin, MVVM, Live Data, Push Notification, Unit Testing, REST API, Retrifot, Database [ MYSQL, Firebase, SQLITE ], PHP, GIT Version Control
+|prabal23.dev@gmail.com
 
 Phone: +8801720848705
-|https://prabal23.github.io/[GITHUB]
+|https://github.com/Prabal23/[GITHUB]
 
 // start from here
 |Sudipto Sarker
