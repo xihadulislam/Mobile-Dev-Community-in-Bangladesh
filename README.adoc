@@ -13,8 +13,6 @@ List of developers to help tech companies to find the best resources.
 NOTE:  Please follow the below instruction
 
 
-
-
 toc::[]
 
 
