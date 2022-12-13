@@ -154,7 +154,7 @@ Phone : +88017xxxxxxx
 |===
 |Name |Bio |Expertise |Contact Info |Website
 
-|Mr. Developer
+|Farhana Akter Maha
 |Software Engineer at GOOGLE
 |Etc, Etc
 |Email: example@gmail.com
