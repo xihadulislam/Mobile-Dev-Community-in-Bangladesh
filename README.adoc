@@ -35,6 +35,7 @@ toc::[]
 |===
 |Name |Bio |Expertise |Contact Info |Website
 
+// start from here
 |Md Ziadul Islam
 |Software Engineer at YO TECH
 |Android, Flutter, Java, Kotlin, MVVM, Coroutine, Live Data, Dagger Hilt, Push Notification, Unit Testing, REST API, Retrofit2, Database [ Firebase , Room, SQLite ], Git Version Control.
@@ -43,9 +44,10 @@ toc::[]
 https://www.linkedin.com/in/xihadislam/[Linkedin], https://twitter.com/xihadulislam/[Twitter], https://www.youtube.com/channel/UCz5x81XnMGnW5KB5lYQsN9Q/[Youtube]
 
 |https://xihadulislam.github.io/[Portfolio]
+// end of a table
 
 
-
+// start from here
 |PRABAL BHATTACHARJEE
 |Software Engineer at YO TECH
 |Android, Flutter
@@ -54,12 +56,15 @@ https://www.linkedin.com/in/xihadislam/[Linkedin], https://twitter.com/xihadulis
 Phone: +8801720848705
 |https://prabal23.github.io/[GITHUB]
 
+// start from here
 |Sudipto Sarker
 |Flutter Mobile Application Developer at YO TECH
 |Android, Flutter
 |Email: sudiptosarker05@gmail.com
 |https://sudiptosk08.github.io/[Website]
+// end of a table
 
+// start from here
 |MD SHAHIN MIAH
 |Software Engineer at YO TECH
 |Android, Flutter
@@ -67,6 +72,7 @@ Phone: +8801720848705
 
 What'sapp : +8801788885000
 |https://github.com/ShahinMohammad-insaneCoder[github]
+// end of a table
 
 
 
