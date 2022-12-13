@@ -49,6 +49,12 @@ toc::[]
 |Email: prabal23.dev@gmail.com
 |https://prabal23.github.io/[Website]
 
+|Sudipto Sarker
+|Flutter Mobile Application Developer at YO TECH
+|Android, Flutter
+|Email: sudiptosarker05@gmail.com
+|https://sudiptosk08.github.io/[Website]
+
 |===
 
 {nbsp} +
