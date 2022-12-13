@@ -37,7 +37,7 @@ toc::[]
 |===
 |Name |Bio |Expertise |Contact Info |Website
 
-|Ziadul Islam
+|MD ZIADUL ISLAM
 |Software Engineer at YO TECH
 |Android, Flutter, Java, Kotlin, REST API, MVVM, Coroutine, Dagger Hilt, Push Notification, Unit Testing, Retrofit2, Database [ Firebase , Room, SQLite ], Git Version Control.
 |xihad.bd@gmail.com
