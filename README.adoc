@@ -15,7 +15,7 @@ Some renowned companies in Bangladesh are searching for skillful and intelligent
 
 {nbsp} +
 
-Find Mobile Developers region wise
+ Find Mobile Developers region wise
 
 
 toc::[]
@@ -29,10 +29,6 @@ NOTE:  Listing in this community is not that tough. You can make yourself enlist
 * Create pull request.
 
 {nbsp} +
-{nbsp} +
-
-
-
 
 == Developers based on division of bangladesh
 
