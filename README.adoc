@@ -107,7 +107,7 @@ https://github.com/ShahinMohammad-insaneCoder[github]
 === Dhaka-ঢাকা
 
 |===
-|Name |Bio |Expertise |Contact Info |Website
+|Name |Bio |Expertise |Contact Info 
 
 |Mr. Developer
 |Software Engineer at GOOGLE
@@ -116,7 +116,7 @@ https://github.com/ShahinMohammad-insaneCoder[github]
 
 Phone : +88017xxxxxxx
 
-|https://example.com/[Website]
+https://example.com/[Website]
 
 
 
@@ -129,7 +129,7 @@ Phone : +88017xxxxxxx
 === Chittagong-চট্টগ্রাম
 
 |===
-|Name |Bio |Expertise |Contact Info |Website
+|Name |Bio |Expertise |Contact Info 
 
 |Mr. Developer
 |Software Engineer at GOOGLE
@@ -138,7 +138,7 @@ Phone : +88017xxxxxxx
 
 Phone : +88017xxxxxxx
 
-|https://example.com/[Website]
+https://example.com/[Website]
 
 
 
@@ -151,7 +151,7 @@ Phone : +88017xxxxxxx
 === Rajshahi-রাজশাহী
 
 |===
-|Name |Bio |Expertise |Contact Info |Website
+|Name |Bio |Expertise |Contact Info 
 
 |Mr. Developer
 |Software Engineer at GOOGLE
@@ -160,7 +160,7 @@ Phone : +88017xxxxxxx
 
 Phone : +88017xxxxxxx
 
-|https://example.com/[Website]
+https://example.com/[Website]
 
 
 |===
@@ -172,16 +172,16 @@ Phone : +88017xxxxxxx
 === Barisal-বরিশাল
 
 |===
-|Name |Bio |Expertise |Contact Info |Website
+|Name |Bio |Expertise |Contact Info 
 
-|Farhana Akter Maha
+|Mr. Developer
 |Software Engineer at GOOGLE
 |Etc, Etc
 |Email: example@gmail.com
 
 Phone : +88017xxxxxxx
 
-|https://example.com/[Website]
+https://example.com/[Website]
 
 
 |===
@@ -193,7 +193,7 @@ Phone : +88017xxxxxxx
 === Mymensingh-ময়মনসিংহ
 
 |===
-|Name |Bio |Expertise |Contact Info |Website
+|Name |Bio |Expertise |Contact Info 
 
 |Mr. Developer
 |Software Engineer at GOOGLE
@@ -202,7 +202,7 @@ Phone : +88017xxxxxxx
 
 Phone : +88017xxxxxxx
 
-|https://example.com/[Website]
+https://example.com/[Website]
 
 
 |===
@@ -215,7 +215,7 @@ Phone : +88017xxxxxxx
 === Rangpur-রংপুর
 
 |===
-|Name |Bio |Expertise |Contact Info |Website
+|Name |Bio |Expertise |Contact Info 
 
 |Mr. Developer
 |Software Engineer at GOOGLE
@@ -224,7 +224,7 @@ Phone : +88017xxxxxxx
 
 Phone : +88017xxxxxxx
 
-|https://example.com/[Website]
+https://example.com/[Website]
 
 
 |===
@@ -236,7 +236,7 @@ Phone : +88017xxxxxxx
 === Khulna-খুলনা
 
 |===
-|Name |Bio |Expertise |Contact Info |Website
+|Name |Bio |Expertise |Contact Info 
 
 |Mr. Developer
 |Software Engineer at GOOGLE
@@ -245,7 +245,7 @@ Phone : +88017xxxxxxx
 
 Phone : +88017xxxxxxx
 
-|https://example.com/[Website]
+https://example.com/[Website]
 
 
 |===
