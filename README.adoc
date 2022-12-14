@@ -81,7 +81,16 @@ What'sapp : +8801788885000
 |https://github.com/ShahinMohammad-insaneCoder[github]
 // end of a table
 
+// start from here
+|Farhana Akter Maha
+|Software Engineer at YO TECH
+|Android, Flutter, Java,Push Notification,REST API, Database [ Firebase, SQLite ], Git Version Control.
+|mahafarhana@gmail.com
 
+https://www.linkedin.com/in/farhana-maha-0bb925164/[Linkedin], https://twitter.com/Farhanamaha/[Twitter]
+
+|https://github.com/mahafarhana/[Portfolio]
+// end of a table
 
 
 
