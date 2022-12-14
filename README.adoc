@@ -25,6 +25,7 @@ toc::[]
 NOTE:  Listing in this community is not that tough.😄 You can make yourself enlisted here very easily by following the below steps.👇
 
 {nbsp} +
+
 == How to add a new Developer?
 
 * Fork the repository.
