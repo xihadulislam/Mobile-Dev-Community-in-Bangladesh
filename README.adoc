@@ -44,7 +44,7 @@ NOTE:  Listing in this community is not that tough.😄 You can make yourself en
 |Md Ziadul Islam
 |Software Engineer at YO TECH
 
-April 2022 - Present
+2021 - Present
 
 |Android, Flutter, Java, Kotlin, MVVM, Coroutine, Live Data, Dagger Hilt, Push Notification, Unit Testing, REST API, Retrofit2, Database [ Firebase , Room, SQLite ], Git Version Control.
 |xihad.bd@gmail.com
