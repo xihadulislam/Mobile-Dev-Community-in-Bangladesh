@@ -36,7 +36,7 @@ NOTE:  Listing in this community is not that tough.😄 You can make yourself en
 == Developers based on division of bangladesh
 
 === Sylhet-সিলেট
-[cols="20%,30%,30%,20%,10%"]
+[cols="20%,30%,30%,20%"]
 |===
 |Name |Bio |Expertise |Contact Info |Website
 
@@ -49,9 +49,8 @@ NOTE:  Listing in this community is not that tough.😄 You can make yourself en
 |Android, Flutter, Java, Kotlin, MVVM, Coroutine, Live Data, Dagger Hilt, Push Notification, Unit Testing, REST API, Retrofit2, Database [ Firebase , Room, SQLite ], Git Version Control.
 |xihad.bd@gmail.com
 
-https://www.linkedin.com/in/xihadislam/[Linkedin], https://leetcode.com/xihadislam/[Leetcode], https://twitter.com/xihadulislam/[Twitter], https://www.youtube.com/channel/UCz5x81XnMGnW5KB5lYQsN9Q/[Youtube], https://www.facebook.com/xihadislam00/[Facebook]
+https://xihadulislam.github.io/[Portfolio], https://www.linkedin.com/in/xihadislam/[Linkedin], https://leetcode.com/xihadislam/[Leetcode], https://twitter.com/xihadulislam/[Twitter], https://www.youtube.com/channel/UCz5x81XnMGnW5KB5lYQsN9Q/[Youtube], https://www.facebook.com/xihadislam00/[Facebook]
 
-|https://xihadulislam.github.io/[Portfolio]
 // end of a table
 
 
@@ -64,14 +63,17 @@ https://www.linkedin.com/in/xihadislam/[Linkedin], https://leetcode.com/xihadisl
 |prabal23.dev@gmail.com
 
 Phone: +8801720848705
-|https://github.com/Prabal23/[GITHUB]
+
+https://github.com/Prabal23/[GITHUB]
+// end of a table
 
 // start from here
 |Sudipto Sarker
 |Flutter Mobile Application Developer at YO TECH
 |Android, Flutter
 |Email: sudiptosarker05@gmail.com
-|https://sudiptosk08.github.io/[Website]
+
+https://sudiptosk08.github.io/[Website]
 // end of a table
 
 // start from here
@@ -81,7 +83,8 @@ Phone: +8801720848705
 |Email: shahintahsan225@gmail.com
 
 What'sapp : +8801788885000
-|https://github.com/ShahinMohammad-insaneCoder[github]
+
+https://github.com/ShahinMohammad-insaneCoder[github]
 // end of a table
 
 // start from here
@@ -90,9 +93,7 @@ What'sapp : +8801788885000
 |Android, Flutter, Java,Push Notification,REST API, Database [ Firebase, SQLite ], Git Version Control.
 |mahafarhana@gmail.com
 
-https://www.linkedin.com/in/farhana-maha-0bb925164/[Linkedin], https://twitter.com/Farhanamaha/[Twitter]
-
-|https://github.com/mahafarhana/[Portfolio]
+ https://github.com/mahafarhana/[Portfolio], https://www.linkedin.com/in/farhana-maha-0bb925164/[Linkedin], https://twitter.com/Farhanamaha/[Twitter]
 // end of a table
 
 
