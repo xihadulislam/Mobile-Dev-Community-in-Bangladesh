@@ -5,9 +5,11 @@
 :toc:
 :toc-placement!:
 
-(C) 2022 The original author https://github.com/xihadulislam/[@XihadIslam.]
 
-List of developers to help tech companies to find the best resources. Nowadays contribution in git has become the most important part of every developer's career. The more you contribute, most you have a chance to be eligible to get hired by tech companies. So we have come up with an idea to make a platform to list all mobile developers in Bangladesh according to their region. 
+(C) 2022 The original author  https://github.com/xihadulislam/[@XihadIslam.]
+
+
+Nowadays contribution in git has become the most important part of every developer's career. The more you contribute, most you have a chance to be eligible to get hired by tech companies. So we have come up with an idea to make a platform to list all mobile developers in Bangladesh according to their region. 
 
 Some renowned companies in Bangladesh are searching for skillful and intelligent brains. And some foreign companies are also opening branches in Bangladesh or they try to hire mobile developers from Bangladesh and for that they need worthy individuals. So This community can be a stage to find and get in touch with developers of skills. So list yourself here and increase your opportunity to be known by people worldwide.
 
