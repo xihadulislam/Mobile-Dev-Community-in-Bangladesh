@@ -36,7 +36,7 @@ NOTE:  Listing in this community is not that tough.😄 You can make yourself en
 == Developers based on division of bangladesh
 
 === Sylhet-সিলেট
-[cols="20%,20%,20%,20%,20%"]
+[cols="20%,30%,20%,20%"]
 |===
 |Name |Bio |Expertise |Contact Info |Website
 
