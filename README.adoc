@@ -37,6 +37,7 @@ NOTE:  Listing in this community is not that tough.😄 You can make yourself en
 
 === Sylhet-সিলেট
 
+[cols="2,2,3,2,1"]
 |===
 |Name |Bio |Expertise |Contact Info |Website
 
