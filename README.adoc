@@ -5,7 +5,7 @@
 :toc:
 :toc-placement!:
 
-(C) 2022 The original author @XihadIslam.
+(C) 2022 The original author  https://github.com/xihadulislam/[@XihadIslam.]
 
 List of developers to help tech companies to find the best resources.
 
