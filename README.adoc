@@ -8,6 +8,7 @@
 
 (C) 2022 The original author  https://github.com/xihadulislam/[@XihadIslam.]
 
+/**
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -26,6 +27,7 @@
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 
+*/
 
 Nowadays contribution in git has become the most important part of every developer's career.🤩 The more you contribute, most you have a chance to be eligible to get hired by tech companies. So we have come up with an idea to make a platform to list all mobile developers in Bangladesh according to their region. :heart:
 
