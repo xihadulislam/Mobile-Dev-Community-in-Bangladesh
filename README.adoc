@@ -97,7 +97,18 @@ https://github.com/ShahinMohammad-insaneCoder[github]
 // end of a table
 
 
+// start from here
+|S.m. Kamal Hussain Shahi
+|Senior Software Engineer at TenTwenty Digital Agency, Dubai
 
+2022 - Present
+
+|Flutter, Flutter-Web, Flutter-Desktop, Android, Java, Kotlin, Swift (Basic), MVVM, MVC, SDUI, TDD, Push Notification, Unit Testing, Widget Testing, Firebase, REST API, Retrofit2, Database [ Room, SQLite ], PHP, Laravel, MySql, Git Version Control. 
+|kamal@tentwenty.me (Official), s.m.kamalhussain@gmail.com (Personal)
+
+https://shahi5472.github.io/home[Portfolio], https://github.com/shahi5472[Github], https://www.linkedin.com/in/s-m-kamal-hussain-shahi-b121a8179[Linkedin], 
+
+// end of a table
 
 |===
 
