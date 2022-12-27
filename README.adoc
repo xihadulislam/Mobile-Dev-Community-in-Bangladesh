@@ -257,6 +257,13 @@ https://example.com/[Website]
 {nbsp} +
 
 
+== How to add a new Developer?
+
+* Fork the repository.
+* Add the Developer in division order.
+* Create pull request.
+
+{nbsp} +
 
 
 ## Found this project useful :heart:
@@ -270,13 +277,6 @@ NOTE: Updating it on daily basis as much as possible, work in progess[WIP].
 {nbsp} +
 {nbsp} +
 
-== How to add a new Developer?
-
-* Fork the repository.
-* Add the Developer in division order.
-* Create pull request.
-
-{nbsp} +
 
 == Contributions & Licensed
 
