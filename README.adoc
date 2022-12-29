@@ -110,17 +110,16 @@ https://shahi5472.github.io/home[Portfolio], https://github.com/shahi5472[Github
 === Dhaka-ঢাকা
 
 |===
-|Name |Bio |Expertise |Contact Info 
+|Name |Bio |Expertise |Contact Info
 
-|Mr. Developer
-|Software Engineer at GOOGLE
-|Etc, Etc
-|Email: example@gmail.com
+// start from here
+|Md Shadat Rahman
+|Junior Software Engineer at HelloTask
+|Flutter, GraphQL, REST API, Database [ Firebase, Hive ], Git, C, Dart, Java, Kotlin, Swift, Python, FastAPI, Postgresql, Docker, Heroku, Postman, Insomnia, Jira, Trello, Manjaro Linux, vim.
+|shadat.rahman.464@gmail.com
 
-Phone : +88017xxxxxxx
-
-https://example.com/[Website]
-
+ https://github.com/mdshadatrahman[Github], https://www.linkedin.com/in/shadat-rahman-208036165/[Linkedin]
+// end of a table
 
 
 |===
