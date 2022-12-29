@@ -112,16 +112,14 @@ https://shahi5472.github.io/home[Portfolio], https://github.com/shahi5472[Github
 |===
 |Name |Bio |Expertise |Contact Info 
 
-|Mr. Developer
-|Software Engineer at GOOGLE
-|Etc, Etc
-|Email: example@gmail.com
+|MD Ziaur Rahman Shamim
+|Flutter Developer
+|Flutter, GetX, Provider, API, MVC, HTML, CSS, JS, Git, Firebase, MVC, error solving, clean coding.
+|Email: zrshamim8822@gmail.com
 
-Phone : +88017xxxxxxx
+Phone : +8801842357696
 
-https://example.com/[Website]
-
-
+https://github.com/ZRShamim[Github], https://www.linkedin.com/in/ziaur-shamim/[Linkedin]
 
 |===
 
