@@ -102,6 +102,8 @@ https://shahi5472.github.io/home[Portfolio], https://github.com/shahi5472[Github
 
 // end of a table
 
+
+
 |===
 
 {nbsp} +
@@ -110,7 +112,6 @@ https://shahi5472.github.io/home[Portfolio], https://github.com/shahi5472[Github
 === Dhaka-ঢাকা
 
 |===
-
 |Name |Bio |Expertise |Contact Info 
 
 |MD Ziaur Rahman Shamim
@@ -125,6 +126,7 @@ https://github.com/ZRShamim[Github], https://www.linkedin.com/in/ziaur-shamim/[L
 // end of a table
 
 // start from here
+
 |Md Shadat Rahman
 |Junior Software Engineer at HelloTask
 |Flutter, GraphQL, REST API, Database [ Firebase, Hive ], Git, C, Dart, Java, Kotlin, Swift, Python, FastAPI, Postgresql, Docker, Heroku, Postman, Insomnia, Jira, Trello, Manjaro Linux, vim.
@@ -133,6 +135,7 @@ https://github.com/ZRShamim[Github], https://www.linkedin.com/in/ziaur-shamim/[L
  https://github.com/mdshadatrahman[Github], https://www.linkedin.com/in/shadat-rahman-208036165/[Linkedin]
 
 // end of a table
+
 
 
 
