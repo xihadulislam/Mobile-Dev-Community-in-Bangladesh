@@ -118,7 +118,7 @@ https://shahi5472.github.io/home[Portfolio], https://github.com/shahi5472[Github
 |Flutter, GraphQL, REST API, Database [ Firebase, Hive ], Git, C, Dart, Java, Kotlin, Swift, Python, FastAPI, Postgresql, Docker, Heroku, Postman, Insomnia, Jira, Trello, Manjaro Linux, vim.
 |shadat.rahman.464@gmail.com
 
- https://github.com/mdshadatrahman, https://www.linkedin.com/in/shadat-rahman-208036165/[Linkedin]
+ https://github.com/mdshadatrahman[GITHUB], https://www.linkedin.com/in/shadat-rahman-208036165/[Linkedin]
 // end of a table
 
 
