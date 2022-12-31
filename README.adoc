@@ -202,6 +202,17 @@ Phone : +88017xxxxxxx
 
 https://example.com/[Website]
 
+// start from here
+|Mahamudul Hasan
+|Junior Mobile Application Developer at https://miicon.net/ [Miicon Solutions]
+|Flutter, Dart, C++, Java SE, Firebase
+|Email: mahamudulhasan.cse@gmail.com
+
+What's app : +8801727493053
+
+https://github.com/SyedMahamudulHasan[Github]
+https://www.linkedin.com/in/syed-mahamudul-hasan-8a3196194/[Linkedin]
+// end of a table
 
 |===
 
