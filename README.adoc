@@ -191,7 +191,7 @@ https://example.com/[Website]
 === Barisal-বরিশাল
 
 |===
-|Name |Bio |Expertise |Contact Info
+|Name |Bio |Expertise |Contact Info 
 // start from here
 |Mahamudul Hasan
 |Junior Mobile Application Developer at Miicon Solutions
