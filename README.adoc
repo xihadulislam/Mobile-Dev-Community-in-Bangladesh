@@ -95,10 +95,10 @@ https://github.com/ShahinMohammad-insaneCoder[github]
 
 2022 - Present
 
-|Flutter, Flutter-Web, Flutter-Desktop, Android, Java, Kotlin, Swift (Basic), MVVM, MVC, SDUI, TDD, Push Notification, Unit Testing, Widget Testing, Firebase, REST API, Retrofit2, Database [ Room, SQLite ], PHP, Laravel, MySql, Git Version Control. 
+|Flutter, Flutter-Web, Flutter-Desktop, Android, Java, Kotlin, Swift (Basic), MVVM, MVC, SDUI, TDD, Push Notification, Unit Testing, Widget Testing, Firebase, REST API, Retrofit2, Database [ Room, SQLite ], PHP, Laravel, MySql, Git Version Control.
 |kamal@tentwenty.me (Official), s.m.kamalhussain@gmail.com (Personal)
 
-https://shahi5472.github.io/home[Portfolio], https://github.com/shahi5472[Github], https://www.linkedin.com/in/s-m-kamal-hussain-shahi-b121a8179[Linkedin], 
+https://shahi5472.github.io/home[Portfolio], https://github.com/shahi5472[Github], https://www.linkedin.com/in/s-m-kamal-hussain-shahi-b121a8179[Linkedin],
 
 // end of a table
 
@@ -112,7 +112,7 @@ https://shahi5472.github.io/home[Portfolio], https://github.com/shahi5472[Github
 === Dhaka-ঢাকা
 
 |===
-|Name |Bio |Expertise |Contact Info 
+|Name |Bio |Expertise |Contact Info
 
 |MD Ziaur Rahman Shamim
 |Flutter Developer
@@ -137,6 +137,23 @@ https://github.com/ZRShamim[Github], https://www.linkedin.com/in/ziaur-shamim/[L
 // end of a table
 
 
+// start from here
+|Sushmoy Roy
+|Mobile Application Developer at Onnorokom Pathshala
+
+2022 - Present
+| Flutter - Animation, Riverpod, GetX, Api, Firebase, MVVM, Clean Architecture, SQLITE, Hive
+
+NodeJS - Express, MongoDb, React, NextJS
+|Email: sushmoyr@gmail.com
+
+Phone: +8801854489406
+
+https://github.com/sushmoyr[GITHUB]
+
+https://linkedin.com/in/sushmoyr/[LINKEDIN]
+// end of a table
+
 
 
 |===
@@ -148,7 +165,7 @@ https://github.com/ZRShamim[Github], https://www.linkedin.com/in/ziaur-shamim/[L
 === Chittagong-চট্টগ্রাম
 
 |===
-|Name |Bio |Expertise |Contact Info 
+|Name |Bio |Expertise |Contact Info
 
 |Mr. Developer
 |Software Engineer at GOOGLE
@@ -170,7 +187,7 @@ https://example.com/[Website]
 === Rajshahi-রাজশাহী
 
 |===
-|Name |Bio |Expertise |Contact Info 
+|Name |Bio |Expertise |Contact Info
 
 |Mr. Developer
 |Software Engineer at GOOGLE
@@ -191,7 +208,7 @@ https://example.com/[Website]
 === Barisal-বরিশাল
 
 |===
-|Name |Bio |Expertise |Contact Info 
+|Name |Bio |Expertise |Contact Info
 
 |Mr. Developer
 |Software Engineer at GOOGLE
@@ -212,7 +229,7 @@ https://example.com/[Website]
 === Mymensingh-ময়মনসিংহ
 
 |===
-|Name |Bio |Expertise |Contact Info 
+|Name |Bio |Expertise |Contact Info
 
 |Mr. Developer
 |Software Engineer at GOOGLE
@@ -234,7 +251,7 @@ https://example.com/[Website]
 === Rangpur-রংপুর
 
 |===
-|Name |Bio |Expertise |Contact Info 
+|Name |Bio |Expertise |Contact Info
 
 |Mr. Developer
 |Software Engineer at GOOGLE
@@ -255,7 +272,7 @@ https://example.com/[Website]
 === Khulna-খুলনা
 
 |===
-|Name |Bio |Expertise |Contact Info 
+|Name |Bio |Expertise |Contact Info
 
 |Mr. Developer
 |Software Engineer at GOOGLE
