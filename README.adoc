@@ -204,7 +204,7 @@ https://example.com/[Website]
 
 // start from here
 |Mahamudul Hasan
-|Junior Mobile Application Developer at https://miicon.net/ [Miicon Solutions]
+|Junior Mobile Application Developer at Miicon Solutions
 |Flutter, Dart, C++, Java SE, Firebase
 |Email: mahamudulhasan.cse@gmail.com
 
