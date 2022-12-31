@@ -191,17 +191,7 @@ https://example.com/[Website]
 === Barisal-বরিশাল
 
 |===
-|Name |Bio |Expertise |Contact Info 
-
-|Mr. Developer
-|Software Engineer at GOOGLE
-|Etc, Etc
-|Email: example@gmail.com
-
-Phone : +88017xxxxxxx
-
-https://example.com/[Website]
-
+|Name |Bio |Expertise |Contact Info
 // start from here
 |Mahamudul Hasan
 |Junior Mobile Application Developer at Miicon Solutions
