@@ -108,13 +108,25 @@ https://shahi5472.github.io/home[Portfolio], https://github.com/shahi5472[Github
 2022 - Present
 
 
-|.Skills 
-* Android Fundamental, Java, OOP, 
-* MVVM, Clean Code, Room, 
-* Firestore DB, DataBinding, ViewBinding, XML Layout Design,
-* Dependency Injection (Dagger, Hilt),Firebase (Auth, Notification, Cloud, Analytics),,Threads, Git and Github, Google Maps Api,
-* Memory leak detection, Sequence, Class, Case, ER Diagram, Readable code
-
+|
+.Bulleted
+* bullet
+* test
+  - test
+  - test
+* test
+** test
+** test
+*** test
+*** test
+**** test
+**** test
+***** test
+***** test
+**** test
+*** test
+** test
+* test
 
 |provakor.konik@gmail.com
 Phone: +8801882563044
