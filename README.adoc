@@ -105,6 +105,7 @@ https://shahi5472.github.io/home[Portfolio], https://github.com/shahi5472[Github
 // start from here
 |Provakor Das Konik
 |Remote Software Engineer
+
 2022 - Present
 
 
@@ -119,8 +120,9 @@ Threads, Git and Github, Google Maps Api,
 Memory leak detection, Sequence, Class, Case, ER Diagram, **Readable_code **
 
 
-|provakor.konik@gmail.com
+|
 Experience : Two Years
+provakor.konik@gmail.com
 Phone: +8801882563044
 https://github.com/fakibuzzkonik/[GITHUB]
 // end of a table
