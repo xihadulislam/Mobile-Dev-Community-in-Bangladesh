@@ -102,6 +102,32 @@ https://shahi5472.github.io/home[Portfolio], https://github.com/shahi5472[Github
 
 // end of a table
 
+// start from here
+|Provakor Das Konik
+|Remote Software Engineer
+
+2022 - Present
+
+
+|
+
+Android Fundamental, Java, OOP, 
+LiveData, **MVVM, Clean Code,** 
+Room, Firestore DB, DataBinding, ViewBinding, XML Layout Design,
+Dependency Injection (Dagger, Hilt),
+Firebase (Auth, Notification, Cloud, Analytics), 
+Threads, Git and Github, Google Maps Api,
+Memory leak detection, Sequence, Class, Case, ER Diagram, **Readable_code **
+
+
+|
+Experience : Two Years
+provakor.konik@gmail.com
+Phone: +8801882563044
+https://github.com/fakibuzzkonik/[GITHUB]
+https://www.linkedin.com/in/provakorkonik/[Linkedin]
+// end of a table
+
 
 
 |===
