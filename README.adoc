@@ -76,7 +76,7 @@ https://sudiptosk08.github.io/[Website]
 
 What'sapp : +8801788885000
 
-https://github.com/ShahinMohammad-insaneCoder[github]
+https://github.com/ShahinMohammad-insaneCoder[Github]
 // end of a table
 
 // start from here
@@ -98,7 +98,7 @@ https://github.com/ShahinMohammad-insaneCoder[github]
 |Flutter, Flutter-Web, Flutter-Desktop, Android, Java, Kotlin, Swift (Basic), MVVM, MVC, SDUI, TDD, Push Notification, Unit Testing, Widget Testing, Firebase, REST API, Retrofit2, Database [ Room, SQLite ], PHP, Laravel, MySql, Git Version Control.
 |kamal@tentwenty.me (Official), s.m.kamalhussain@gmail.com (Personal)
 
-https://shahi5472.github.io/home[Portfolio], https://github.com/shahi5472[Github], https://www.linkedin.com/in/s-m-kamal-hussain-shahi-b121a8179[Linkedin],
+https://shahi5472.github.io/home[Portfolio], https://github.com/shahi5472[Github], https://www.linkedin.com/in/s-m-kamal-hussain-shahi-b121a8179[Linkedin]
 
 // end of a table
 
@@ -108,10 +108,7 @@ https://shahi5472.github.io/home[Portfolio], https://github.com/shahi5472[Github
 
 2022 - Present
 
-
-|
-
-Android Fundamental, Java, OOP, 
+|Android Fundamental, Java, OOP, 
 LiveData, **MVVM, Clean Code,** 
 Room, Firestore DB, DataBinding, ViewBinding, XML Layout Design,
 Dependency Injection (Dagger, Hilt),
@@ -120,11 +117,10 @@ Threads, Git and Github, Google Maps Api,
 Memory leak detection, Sequence, Class, Case, ER Diagram, **Readable_code **
 
 
-|
-Experience : Two Years
+|Experience : Two Years
 provakor.konik@gmail.com
 Phone: +8801882563044
-https://github.com/fakibuzzkonik/[GITHUB]
+https://github.com/fakibuzzkonik/[GITHUB],
 https://www.linkedin.com/in/provakorkonik/[Linkedin]
 // end of a table
 
