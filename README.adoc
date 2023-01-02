@@ -122,7 +122,7 @@ provakor.konik@gmail.com
 
 Phone: +8801882563044
 
-https://github.com/fakibuzzkonik/[GITHUB],https://www.linkedin.com/in/provakorkonik/[Linkedin]
+https://github.com/fakibuzzkonik/[GITHUB], https://www.linkedin.com/in/provakorkonik/[Linkedin]
 // end of a table
 
 
