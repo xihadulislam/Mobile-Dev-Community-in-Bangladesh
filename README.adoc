@@ -338,7 +338,7 @@ https://example.com/[Website]
 {nbsp} +
 
 
-## Found this project useful :heart:
+## Found this project useful ⭐
 * Support by clicking the :star: button on the upper right of this page. :v:
 
 {nbsp} +
