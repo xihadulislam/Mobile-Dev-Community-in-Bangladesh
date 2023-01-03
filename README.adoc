@@ -347,14 +347,12 @@ NOTE: Updating it on daily basis as much as possible, work in progess[WIP].
 
 
 {nbsp} +
+
+
+## Thanks to all contributors ❤
+image:https://contrib.rocks/image?repo=xihadulislam/Mobile-Dev-Community-in-Bangladesh[]
+
 {nbsp} +
-
-
-image:https://contrib.rocks/image?repo=xihadulislam/Mobile-Dev-Community-in-Bangladesh[https://github.com/xihadulislam/Mobile-Dev-Community-in-Bangladesh/graphs/contributors]
-
-image::https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg[Tux,250,350]
-
-
 == Contributions & Licensed
 
 === -> Contribute
