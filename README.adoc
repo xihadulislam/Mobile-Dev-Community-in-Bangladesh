@@ -352,6 +352,8 @@ NOTE: Updating it on daily basis as much as possible, work in progess[WIP].
 
 image:https://contrib.rocks/image?repo=xihadulislam/Mobile-Dev-Community-in-Bangladesh[]
 
+image::https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg[Tux,250,350]
+
 
 == Contributions & Licensed
 
