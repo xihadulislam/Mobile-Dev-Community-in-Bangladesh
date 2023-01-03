@@ -350,7 +350,7 @@ NOTE: Updating it on daily basis as much as possible, work in progess[WIP].
 
 
 ## Thanks to all contributors ❤
-image:https://contrib.rocks/image?repo=xihadulislam/Mobile-Dev-Community-in-Bangladesh[]
+image:https://contrib.rocks/image?repo=xihadulislam/Mobile-Dev-Community-in-Bangladesh[link="https://github.com/xihadulislam/Mobile-Dev-Community-in-Bangladesh/graphs/contributor"]
 
 {nbsp} +
 
