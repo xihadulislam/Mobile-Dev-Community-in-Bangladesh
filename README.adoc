@@ -5,7 +5,6 @@
 :toc:
 :toc-placement!:
 
-
 (C) 2022 The original author  https://github.com/xihadulislam/[@XihadIslam.]
 
 
