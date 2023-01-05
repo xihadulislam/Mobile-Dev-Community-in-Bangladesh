@@ -197,7 +197,8 @@ https://linkedin.com/in/sushmoyr/[LINKEDIN]
 |Software Developer at Ridealike Inc.
 |Flutter, Dart, REST API, Database [ Firebase, Hive ], Git, C, Kotlin,Postman,Provider,MVP,MVVM,Bloc Pattern,OOP,Insomnia, Jira, Manjaro Linux.
 |akterh.ja@gmail.com
-|+8801844664252
+
++8801844664252
 
  https://github.com/akterridealike[Github], https://www.linkedin.com/in/akter-hossain-7570aa129/[Linkedin]
 
