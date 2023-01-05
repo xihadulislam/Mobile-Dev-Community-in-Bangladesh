@@ -195,7 +195,7 @@ https://linkedin.com/in/sushmoyr/[LINKEDIN]
 
 |Md. Akter Hossain
 |Software Developer at Ridealike Inc.
-|Flutter, Dart, REST API, Database [ Firebase, Hive ], Git, C, Kotlin,Postman,Provider,MVP,MVVM,Bloc Pattern,OOP,Insomnia, Jira, Manjaro Linux.
+|Flutter, Dart, REST API, Database [ Firebase, Hive ], Git, C, Kotlin, Postman, Provider, MVP, MVVM, Bloc Pattern, OOP, Insomnia, Jira, Manjaro Linux.
 |akterh.ja@gmail.com
 
 +8801844664252
