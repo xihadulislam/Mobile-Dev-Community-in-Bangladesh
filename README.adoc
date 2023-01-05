@@ -191,6 +191,17 @@ https://github.com/sushmoyr[GITHUB]
 https://linkedin.com/in/sushmoyr/[LINKEDIN]
 // end of a table
 
+// start from here
+
+|Md. Akter Hossain
+|Software Developer at Ridealike Inc.
+|Flutter, Dart, REST API, Database [ Firebase, Hive ], Git, C, Kotlin,Postman, Insomnia, Jira, Manjaro Linux.
+|akterh.ja@gmail.com
+
+ https://github.com/akterridealike[Github], https://www.linkedin.com/in/akter-hossain-7570aa129/[Linkedin]
+
+// end of a table
+
 
 
 |===
