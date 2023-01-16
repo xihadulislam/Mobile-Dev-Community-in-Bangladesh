@@ -239,7 +239,7 @@ https://example.com/[Website]
 |===
 |Name |Bio |Expertise |Contact Info
 
-|Mr. Developer
+|Farhana Akter Maha
 |Software Engineer at GOOGLE
 |Etc, Etc
 |Email: example@gmail.com
