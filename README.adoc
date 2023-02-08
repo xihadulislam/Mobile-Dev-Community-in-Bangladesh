@@ -217,16 +217,16 @@ https://linkedin.com/in/sushmoyr/[LINKEDIN]
 |===
 |Name |Bio |Expertise |Contact Info
 
-|Mr. Developer
-|Software Engineer at GOOGLE
-|Etc, Etc
-|Email: example@gmail.com
+|M Tarek
+|Software Engineer at MeektecIt
+|C++,Java,Kotlin,Dart,Firebase,Local Database,Hive,Shared Preference,Provider,Getx,Bloc,Micro Service,Background Service,Pixel Perfect Design,Rest Api,Laravel and so on.
+|Email: mohiuddintarek2017@gmail.com
 
-Phone : +88017xxxxxxx
+Phone : +8801957-345431
 
-https://example.com/[Website]
+https://github.com/[mutarek]
 
-
+https://www.youtube.com/@mtarek4357
 
 |===
 
