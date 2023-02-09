@@ -1,4 +1,4 @@
-=Mobile Application Developer Community in Bangladesh
+= Mobile Application Developer Community in Bangladesh
 ;
 :revnumber: {version}
 :revdate: {localdate}
