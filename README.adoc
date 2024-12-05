@@ -139,8 +139,38 @@ Phone: +8801877532330
 https://github.com/Sajid-ikram/[Github], https://www.linkedin.com/in/sajid-ikram/[Linkedin]
 // end of a table
 
+// start from here
+| Nilashish Roy
+| Software Engineer at Valt.team
 
+2024 - Present
 
+| 
+**📱 Mobile Development:** Android, Flutter, Kotlin, Dart, Swift, Java, MVVM, MVC, Push Notifications, Firebase Cloud Messaging, App State Management
+
+**🌐 Web Development:** JavaScript, PHP, HTML5, CSS3
+
+**☁️ Cloud & DevOps:** AWS, GCP, Heroku, Git, Docker, CI/CD, BitBucket
+
+**💾 Databases:** Firebase, MongoDB, MySQL, Room, SQLite, Isar
+
+**🎨 Design Tools:** Figma, Illustrator, Photoshop, InkScape
+
+**🧪 Testing & Development:** TDD, REST API, Retrofit2, Volley, HTTP, DIO, Postman, OpenCV, Pandas, NumPy, Mockito, Blockchain, Overleaf
+
+**🎮 Game Development:** Unity, Unreal
+
+**🌐 IoT & Programming:** Arduino, C++, C#, Solidity, LateX,
+
+**💰 Advertising & Payments:** Stripe SDK, Play Console, Google Ads, Facebook Ads, Unity Ads, Applobin Ads
+
+**📦 State Management:** GetX, Provider, Riverpod
+
+| nilashishroyjoy@gmail.com
+
+https://mrroy.techbeeit.com/[Portfolio], https://www.linkedin.com/in/nilashish-roy-b8a4a0171/[LinkedIn], https://www.github.com/nilashishroy/[GitHub], https://play.google.com/store/apps/dev?id=7780523270903775830[Developer]
+
+// end of a table
 |===
 
 {nbsp} +
